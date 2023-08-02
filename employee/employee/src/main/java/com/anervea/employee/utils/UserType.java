@@ -1,0 +1,5 @@
+package com.anervea.employee.utils;
+
+public enum UserType {
+    ADMIN,HOSPITAL,DOCTOR,ECLINIC,AGENT,PATHLAB,CORPORATE,EMPLOYEE,REFERRAL,PATIENT,TEAM
+}
